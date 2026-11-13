@@ -1,5 +1,5 @@
 // Course: IGME 309
-// Student Name: YOUR NAME
+// Student Name: Chase Martoccia
 // Friday Exercise: 05
 #ifndef MY_MESH_H
 #define MY_MESH_H

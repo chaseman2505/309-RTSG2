@@ -1,5 +1,5 @@
 // Course: IGME 309
-// Student Name: YOUR NAME
+// Student Name: Chase Martoccia
 // Friday Exercise: 05
 #ifdef __APPLE__
 #include <GLUT/glut.h>

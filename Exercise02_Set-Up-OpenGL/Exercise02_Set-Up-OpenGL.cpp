@@ -1,6 +1,6 @@
 // Course: 		IGME 309
 // Student Name: 	Chase Martoccia
-// Friday Exercise: 	02
+// Assignment: 	04
 
 #ifdef __APPLE__
 #include <GLUT/glut.h> // include glut for Mac
